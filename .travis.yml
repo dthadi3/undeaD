@@ -1,5 +1,9 @@
 language: d
 
+arch:
+  - AMD64
+  - ppc64le
+
 os:
   - linux
   - osx
